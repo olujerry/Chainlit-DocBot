@@ -1,0 +1,4 @@
+Chainlit
+openai
+python-dotenv
+-e .
